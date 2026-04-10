@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "jshttp",
+  "repo": "methods",
+  "versions": [
+    {
+      "commit": "25d257d913f1b94bd2d73581521ff72c81469140",
+      "parsed_at": "2026-04-10T08:52:12.987741+00:00",
+      "tag": "v1.1.2",
+      "filetree": "filetree/25d257d913f1b94bd2d73581521ff72c81469140.nq.gz",
+      "blobs": [
+        "blob/2fd752c632e1736007337ce39108c042cb8c2f0c.nq.gz",
+        "blob/672a32bfe5d685306f18b7a81a15af9fbbd00a0f.nq.gz",
+        "blob/c0ecf072db3f9809c46c83f5641b5df99c686bbf.nq.gz",
+        "blob/c4ce6f053c68581068898fd2a4be53a861e5b1b5.nq.gz",
+        "blob/527beaba83a9e7e8cae815634c4448e8347782c3.nq.gz",
+        "blob/e4e8965236c6c42541e4c9e2d72d30196d3f8f80.nq.gz",
+        "blob/220dc1a247943ef3837b65754455dfb179260070.nq.gz",
+        "blob/667a50bde7d852359b1ebd9fa8ea8b8582bc64ac.nq.gz",
+        "blob/2c727d4600cdc38628cf814a588b5ec82d0fcd84.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
